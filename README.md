@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on [yusys](http://www.yusys.com.cn/)
+- 🔭 I’m currently working on [Li Auto](https://www.lixiang.com)
 
 <!--
 - 🌱 I’m currently learning 
