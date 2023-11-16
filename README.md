@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={kongzheng1993}&theme=2077) 
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={kongzheng1993}&theme=2077)]
 [![](https://raw.githubusercontent.com/sunface/sunface/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
